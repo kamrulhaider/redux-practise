@@ -10,5 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "redux": "^4.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamrulhaider/redux-practise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kamrulhaider/redux-practise/issues"
+  },
+  "homepage": "https://github.com/kamrulhaider/redux-practise#readme"
 }
